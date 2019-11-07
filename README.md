@@ -71,4 +71,4 @@
 ### 
 
 [主题文档](https://cuiweiboy.github.io/)
-![Youth](https://cuiweiboy.github.io/mblog.gif "Youth")
+![Youth](https://images.gitee.com/uploads/images/2019/1107/164006_8184c740_1758849.jpeg "2019-11-07_163918.jpg")
