@@ -71,3 +71,4 @@
 ### 
 
 [主题文档](https://cuiweiboy.github.io/)
+ ![Mblog](https://cuiweiboy.github.io/mblog.gif "mblog.gif")
