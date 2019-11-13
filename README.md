@@ -31,4 +31,7 @@
  TIPS: 
  如遇到启动失败/切换环境变量后启动失败的,请先maven clean后再尝试启动
  IDE得装lombok插件
+ 
+ docker 部署：
+ idea连接远程docker服务器，将镜像上传，服务器运行该程序：docker run -d -p 9090:9090 mblog
 ```
