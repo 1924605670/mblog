@@ -1,5 +1,5 @@
 server:
-    port: 8080
+    port: 9090
     use-forward-headers: true
     undertow:
         io-threads: 2
@@ -84,3 +84,7 @@ site:
         editor: markdown
         thumbnail_channel_size: 200x112
         thumbnail_post_size: 360x200
+        mail_smtp_host: smtp.163.com
+        mail_smtp_username: 18155167168@163.com
+        mail_smtp_password: 192460wen
+
