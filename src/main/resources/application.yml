@@ -86,5 +86,5 @@ site:
         thumbnail_post_size: 360x200
         mail_smtp_host: smtp.163.com
         mail_smtp_username: 18155167168@163.com
-        mail_smtp_password: 192460wen
+        mail_smtp_password: 192460
 
